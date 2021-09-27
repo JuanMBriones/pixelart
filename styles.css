@@ -1,0 +1,25 @@
+body {
+  background-image: url('https://i.pinimg.com/originals/99/bb/69/99bb69e4680b0bc9c4c806f5f0f87ad5.png');
+}
+
+.row {
+    height: 30px;
+}
+
+.cell {
+    display: inline-block;
+    height: 100%;
+    width: 30px;
+}
+
+.black {
+    background-color: black;
+}
+
+.brown {
+  background-color: rgb(159, 47, 9);
+}
+
+.light-brown {
+  background-color: rgb(245, 200, 171);
+}
